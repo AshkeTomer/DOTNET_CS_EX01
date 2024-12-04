@@ -1,7 +1,0 @@
-C:\Users\Ashke\source\repos\Ex01 Tomer 206530263 Ohad\Ex01_03\bin\Debug\Ex01_03.exe.config
-C:\Users\Ashke\source\repos\Ex01 Tomer 206530263 Ohad\Ex01_03\bin\Debug\Ex01_03.exe
-C:\Users\Ashke\source\repos\Ex01 Tomer 206530263 Ohad\Ex01_03\bin\Debug\Ex01_03.pdb
-C:\Users\Ashke\source\repos\Ex01 Tomer 206530263 Ohad\Ex01_03\obj\Debug\Ex01_03.csproj.AssemblyReference.cache
-C:\Users\Ashke\source\repos\Ex01 Tomer 206530263 Ohad\Ex01_03\obj\Debug\Ex01_03.csproj.CoreCompileInputs.cache
-C:\Users\Ashke\source\repos\Ex01 Tomer 206530263 Ohad\Ex01_03\obj\Debug\Ex01_03.exe
-C:\Users\Ashke\source\repos\Ex01 Tomer 206530263 Ohad\Ex01_03\obj\Debug\Ex01_03.pdb
